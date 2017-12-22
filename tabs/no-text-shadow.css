@@ -1,0 +1,9 @@
+/*
+ * Remove text shadows in tabs
+ *
+ * Contributor(s):  nt1m
+ */
+
+ :root, .tabbrowser-tab {
+   text-shadow: none !important;
+ }
