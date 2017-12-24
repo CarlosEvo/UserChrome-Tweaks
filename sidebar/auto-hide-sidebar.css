@@ -18,6 +18,7 @@
   left: var(--sidebar-hover-width) !important;
   min-width: var(--sidebar-hover-width) !important;
   max-width: var(--sidebar-hover-width) !important;
+  opacity: 0 !important;
 }
 
 #sidebar-box:hover {
@@ -25,6 +26,7 @@
   left: var(--sidebar-visible-width) !important;
   min-width: var(--sidebar-visible-width) !important;
   max-width: var(--sidebar-visible-width) !important;
+  opacity: 1 !important;
 }
 
 #sidebar {
